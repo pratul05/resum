@@ -35,15 +35,7 @@
 			}
 		]
 	},
-	"work": [{
-			"company": "IIIT Kota",
-			"position": "Web Developer",
-			"website": "https://iiitkota.ac.in",
-			"startDate": "",
-			"endDate": "",
-			"summary": "Worked as a web developer for creating the offical website of IIIT Kota.",
-			"highlights": []
-		}
+	"work": [
 
 	],
 
